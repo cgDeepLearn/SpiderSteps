@@ -87,6 +87,15 @@ celerybeat-schedule
 venv/
 ENV/
 
+# # editor
+.vscode/*
+.idea/*
+
+# Vim
+*~
+*.swap
+*.swo
+
 # Spyder project settings
 .spyderproject
 .spyproject
