@@ -88,8 +88,8 @@ venv/
 ENV/
 
 # # editor
-.vscode/*
-.idea/*
+.vscode/
+.idea/
 
 # Vim
 *~
